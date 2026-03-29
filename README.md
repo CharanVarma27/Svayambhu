@@ -116,8 +116,3 @@ npm install && npm run dev
 - **Infrastructure**: Uvicorn ASGI, Maven Wrapper, Vite Dev Server
 
 ---
-
-## 📄 License
-
-MIT License — Built for the Hackathon 2026
-#
