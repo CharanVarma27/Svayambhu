@@ -1,0 +1,55 @@
+# Environment
+.env
+.env.local
+.venv
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build & Dependencies (Root/Frontend)
+node_modules/
+dist/
+build/
+.next/
+out/
+.vercel
+.turbo
+
+# Java (Backend)
+target/
+*.class
+*.jar
+*.war
+*.ear
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.iml
+.project
+.settings/
+.classpath
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.ipynb_checkpoints/
+
+# System specific
+.gemini/
+.agents/
+.agent/
+_agents/
+_agent/
+tmp/
