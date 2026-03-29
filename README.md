@@ -1,12 +1,4 @@
-# 🤖 Svayambhu — Autonomous Multi-Agent AI Workflow Orchestrator
-
-> [!IMPORTANT]
-> **Hackathon Submission Assets:**
-> - [Architecture Document](file:///c:/Users/Charan%20Varma/.gemini/antigravity/brain/85889556-1a1c-4c23-a6bf-14e56fb28024/architecture_document.md)
-> - [Quantified Impact Model](file:///c:/Users/Charan%20Varma/.gemini/antigravity/brain/85889556-1a1c-4c23-a6bf-14e56fb28024/impact_model.md)
-> - [Demo Script & Video Guide](file:///c:/Users/Charan%20Varma/.gemini/antigravity/brain/85889556-1a1c-4c23-a6bf-14e56fb28024/demo_script.md)
-
----
+# Svayambhu — Autonomous Multi-Agent AI Workflow Orchestrator
 
 
 ## 🎯 Key Innovations
